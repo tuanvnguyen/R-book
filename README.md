@@ -76,6 +76,6 @@ head(dat)
 </tbody>
 </table></p>
 
-## Online Courses from Professional Nguyen V.Tuan
+## Online Courses from Professional Nguyen Van Tuan
 
 You can find out the courses about R-Book on [Youtube](https://www.youtube.com/results?search_query=nguyen+van+tuan)
